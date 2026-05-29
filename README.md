@@ -2,3 +2,4 @@
 Starting new projects in 2026
 list of the projects
 web
+data analysis
